@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanar\\source\\repos\\sqlEntity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F510BB5-0DF1-4988-BFE6-69256D5999DC}|Emberek\\Emberek.csproj|c:\\users\\tanar\\source\\repos\\sqlentity\\emberek\\models\\ember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F510BB5-0DF1-4988-BFE6-69256D5999DC}|Emberek\\Emberek.csproj|solutionrelative:emberek\\models\\ember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F510BB5-0DF1-4988-BFE6-69256D5999DC}|Emberek\\Emberek.csproj|c:\\users\\tanar\\source\\repos\\sqlentity\\emberek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F510BB5-0DF1-4988-BFE6-69256D5999DC}|Emberek\\Emberek.csproj|solutionrelative:emberek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ember.cs",
+              "DocumentMoniker": "C:\\Users\\Tanar\\source\\repos\\sqlEntity\\Emberek\\Models\\Ember.cs",
+              "RelativeDocumentMoniker": "Emberek\\Models\\Ember.cs",
+              "ToolTip": "C:\\Users\\Tanar\\source\\repos\\sqlEntity\\Emberek\\Models\\Ember.cs",
+              "RelativeToolTip": "Emberek\\Models\\Ember.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAawBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T15:46:50.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tanar\\source\\repos\\sqlEntity\\Emberek\\Form1.cs",
+              "RelativeDocumentMoniker": "Emberek\\Form1.cs",
+              "ToolTip": "C:\\Users\\Tanar\\source\\repos\\sqlEntity\\Emberek\\Form1.cs [Design]",
+              "RelativeToolTip": "Emberek\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T15:35:20.102Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

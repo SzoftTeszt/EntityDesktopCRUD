@@ -1,0 +1,16 @@
+C:\Users\Tanar\source\repos\sqlEntity\Emberek\bin\Debug\net9.0-windows\Emberek.exe
+C:\Users\Tanar\source\repos\sqlEntity\Emberek\bin\Debug\net9.0-windows\Emberek.deps.json
+C:\Users\Tanar\source\repos\sqlEntity\Emberek\bin\Debug\net9.0-windows\Emberek.runtimeconfig.json
+C:\Users\Tanar\source\repos\sqlEntity\Emberek\bin\Debug\net9.0-windows\Emberek.dll
+C:\Users\Tanar\source\repos\sqlEntity\Emberek\bin\Debug\net9.0-windows\Emberek.pdb
+C:\Users\Tanar\source\repos\sqlEntity\Emberek\obj\Debug\net9.0-windows\Emberek.Form1.resources
+C:\Users\Tanar\source\repos\sqlEntity\Emberek\obj\Debug\net9.0-windows\Emberek.csproj.GenerateResource.cache
+C:\Users\Tanar\source\repos\sqlEntity\Emberek\obj\Debug\net9.0-windows\Emberek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanar\source\repos\sqlEntity\Emberek\obj\Debug\net9.0-windows\Emberek.AssemblyInfoInputs.cache
+C:\Users\Tanar\source\repos\sqlEntity\Emberek\obj\Debug\net9.0-windows\Emberek.AssemblyInfo.cs
+C:\Users\Tanar\source\repos\sqlEntity\Emberek\obj\Debug\net9.0-windows\Emberek.csproj.CoreCompileInputs.cache
+C:\Users\Tanar\source\repos\sqlEntity\Emberek\obj\Debug\net9.0-windows\Emberek.dll
+C:\Users\Tanar\source\repos\sqlEntity\Emberek\obj\Debug\net9.0-windows\refint\Emberek.dll
+C:\Users\Tanar\source\repos\sqlEntity\Emberek\obj\Debug\net9.0-windows\Emberek.pdb
+C:\Users\Tanar\source\repos\sqlEntity\Emberek\obj\Debug\net9.0-windows\Emberek.genruntimeconfig.cache
+C:\Users\Tanar\source\repos\sqlEntity\Emberek\obj\Debug\net9.0-windows\ref\Emberek.dll

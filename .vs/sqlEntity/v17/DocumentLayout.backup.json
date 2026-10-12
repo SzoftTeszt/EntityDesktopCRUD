@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Tanar\\source\\repos\\sqlEntity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F510BB5-0DF1-4988-BFE6-69256D5999DC}|Emberek\\Emberek.csproj|c:\\users\\tanar\\source\\repos\\sqlentity\\emberek\\models\\ember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F510BB5-0DF1-4988-BFE6-69256D5999DC}|Emberek\\Emberek.csproj|solutionrelative:emberek\\models\\ember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F510BB5-0DF1-4988-BFE6-69256D5999DC}|Emberek\\Emberek.csproj|c:\\users\\tanar\\source\\repos\\sqlentity\\emberek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F510BB5-0DF1-4988-BFE6-69256D5999DC}|Emberek\\Emberek.csproj|solutionrelative:emberek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F510BB5-0DF1-4988-BFE6-69256D5999DC}|Emberek\\Emberek.csproj|c:\\users\\tanar\\source\\repos\\sqlentity\\emberek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1F510BB5-0DF1-4988-BFE6-69256D5999DC}|Emberek\\Emberek.csproj|C:\\Users\\Tanar\\source\\repos\\sqlEntity\\emberek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1F510BB5-0DF1-4988-BFE6-69256D5999DC}|Emberek\\Emberek.csproj|solutionrelative:emberek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tanar\\source\\repos\\sqlEntity\\Emberek\\Migrations\\20261012163608_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Emberek\\Migrations\\20261012163608_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F510BB5-0DF1-4988-BFE6-69256D5999DC}|Emberek\\Emberek.csproj|c:\\users\\tanar\\source\\repos\\sqlentity\\emberek\\data\\emberekcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F510BB5-0DF1-4988-BFE6-69256D5999DC}|Emberek\\Emberek.csproj|solutionrelative:emberek\\data\\emberekcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F510BB5-0DF1-4988-BFE6-69256D5999DC}|Emberek\\Emberek.csproj|c:\\users\\tanar\\source\\repos\\sqlentity\\emberek\\models\\ember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F510BB5-0DF1-4988-BFE6-69256D5999DC}|Emberek\\Emberek.csproj|solutionrelative:emberek\\models\\ember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +35,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Tanar\\source\\repos\\sqlEntity\\Emberek\\Form1.cs",
+              "RelativeDocumentMoniker": "Emberek\\Form1.cs",
+              "ToolTip": "C:\\Users\\Tanar\\source\\repos\\sqlEntity\\Emberek\\Form1.cs",
+              "RelativeToolTip": "Emberek\\Form1.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAwwKAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T16:52:51.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20261012163608_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Tanar\\source\\repos\\sqlEntity\\Emberek\\Migrations\\20261012163608_Initial.cs",
+              "RelativeDocumentMoniker": "Emberek\\Migrations\\20261012163608_Initial.cs",
+              "ToolTip": "C:\\Users\\Tanar\\source\\repos\\sqlEntity\\Emberek\\Migrations\\20261012163608_Initial.cs",
+              "RelativeToolTip": "Emberek\\Migrations\\20261012163608_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T16:36:08.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmberekContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tanar\\source\\repos\\sqlEntity\\Emberek\\Data\\EmberekContext.cs",
+              "RelativeDocumentMoniker": "Emberek\\Data\\EmberekContext.cs",
+              "ToolTip": "C:\\Users\\Tanar\\source\\repos\\sqlEntity\\Emberek\\Data\\EmberekContext.cs",
+              "RelativeToolTip": "Emberek\\Data\\EmberekContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T16:21:54.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Ember.cs",
               "DocumentMoniker": "C:\\Users\\Tanar\\source\\repos\\sqlEntity\\Emberek\\Models\\Ember.cs",
               "RelativeDocumentMoniker": "Emberek\\Models\\Ember.cs",
               "ToolTip": "C:\\Users\\Tanar\\source\\repos\\sqlEntity\\Emberek\\Models\\Ember.cs",
               "RelativeToolTip": "Emberek\\Models\\Ember.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAawBsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T15:46:50.842Z",
               "EditorCaption": ""

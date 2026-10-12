@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Emberek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a81154abf89efa26ae3aa88e4837cdf99bdaf85e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Emberek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Emberek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

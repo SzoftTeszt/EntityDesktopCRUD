@@ -30,9 +30,9 @@
         {
             lstEmberek = new ListBox();
             label1 = new Label();
-            textBox1 = new TextBox();
+            txtName = new TextBox();
             label2 = new Label();
-            textBox2 = new TextBox();
+            txtAge = new TextBox();
             btnMentes = new Button();
             btnModositas = new Button();
             btnTorles = new Button();
@@ -45,6 +45,7 @@
             lstEmberek.Name = "lstEmberek";
             lstEmberek.Size = new Size(277, 404);
             lstEmberek.TabIndex = 0;
+            lstEmberek.SelectedIndexChanged += lstEmberek_SelectedIndexChanged;
             // 
             // label1
             // 
@@ -55,12 +56,12 @@
             label1.TabIndex = 1;
             label1.Text = "Név:";
             // 
-            // textBox1
+            // txtName
             // 
-            textBox1.Location = new Point(349, 49);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(208, 27);
-            textBox1.TabIndex = 2;
+            txtName.Location = new Point(349, 49);
+            txtName.Name = "txtName";
+            txtName.Size = new Size(208, 27);
+            txtName.TabIndex = 2;
             // 
             // label2
             // 
@@ -71,12 +72,12 @@
             label2.TabIndex = 1;
             label2.Text = "Életkor:";
             // 
-            // textBox2
+            // txtAge
             // 
-            textBox2.Location = new Point(349, 126);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(208, 27);
-            textBox2.TabIndex = 2;
+            txtAge.Location = new Point(349, 126);
+            txtAge.Name = "txtAge";
+            txtAge.Size = new Size(208, 27);
+            txtAge.TabIndex = 2;
             // 
             // btnMentes
             // 
@@ -86,6 +87,7 @@
             btnMentes.TabIndex = 3;
             btnMentes.Text = "Mentés";
             btnMentes.UseVisualStyleBackColor = true;
+            btnMentes.Click += btnMentes_Click;
             // 
             // btnModositas
             // 
@@ -95,6 +97,7 @@
             btnModositas.TabIndex = 3;
             btnModositas.Text = "Módosítás";
             btnModositas.UseVisualStyleBackColor = true;
+            btnModositas.Click += btnMentes_Click;
             // 
             // btnTorles
             // 
@@ -104,6 +107,7 @@
             btnTorles.TabIndex = 3;
             btnTorles.Text = "Törlés";
             btnTorles.UseVisualStyleBackColor = true;
+            btnTorles.Click += btnTorles_Click;
             // 
             // Form1
             // 
@@ -113,13 +117,14 @@
             Controls.Add(btnModositas);
             Controls.Add(btnTorles);
             Controls.Add(btnMentes);
-            Controls.Add(textBox2);
+            Controls.Add(txtAge);
             Controls.Add(label2);
-            Controls.Add(textBox1);
+            Controls.Add(txtName);
             Controls.Add(label1);
             Controls.Add(lstEmberek);
             Name = "Form1";
             Text = "Emberek Nyílvántartása";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -128,9 +133,9 @@
 
         private ListBox lstEmberek;
         private Label label1;
-        private TextBox textBox1;
+        private TextBox txtName;
         private Label label2;
-        private TextBox textBox2;
+        private TextBox txtAge;
         private Button btnMentes;
         private Button btnModositas;
         private Button btnTorles;
